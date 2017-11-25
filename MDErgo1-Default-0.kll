@@ -1,0 +1,93 @@
+Name = "MDErgo1";
+Variant = "standard";
+Layout = "Default";
+Base = "Blank";
+Version = "0.1";
+Author = "kc5m";
+KLL = "0.3c";
+Date = "2017-11-25";
+Generator = "KIICONF 0.2";
+
+
+
+U"ESC" : U"ESC";
+U"5" : U"5";
+U"4" : U"4";
+U"3" : U"3";
+U"2" : U"2";
+U"1" : U"1";
+U"EQUALS" : U"`";
+U"FUNCTION1" : U"[";
+U"T" : U"T";
+U"R" : U"R";
+U"E" : U"E";
+U"W" : U"W";
+U"Q" : U"Q";
+U"BACKSLASH" : U"TAB";
+U"G" : U"G";
+U"F" : U"F";
+U"D" : U"D";
+U"S" : U"S";
+U"A" : U"A";
+U"TAB" : U"LCTRL";
+U"LALT" : U"HOME";
+U"LCTRL" : U"LCK2";
+U"FUNCTION2" : U"LALT";
+U"B" : U"B";
+U"V" : U"V";
+U"C" : U"C";
+U"X" : U"X";
+U"Z" : U"Z";
+U"LSHIFT" : U"LSHIFT";
+U"HOME" : U"END";
+U"END" : U"LGUI";
+U"DELETE" : U"ESCAPE";
+U"BACKSPACE" : U"BACKSPACE";
+U"FUNCTION5" : U"LSHIFT" + U"F10";
+U"FUNCTION4" : U"LSHIFT" + U"F9";
+U"FUNCTION3" : U"LCTRL" + U"TAB";
+U"BACKTICK" : U"LCTRL" + U"TAB" + U"LSHIFT";
+U"LGUI" : U"LALT";
+U"FUNCTION6" : U"PRINTSCREEN";
+U"6" : U"6";
+U"7" : U"7";
+U"8" : U"8";
+U"9" : U"9";
+U"0" : U"0";
+U"MINUS" : U"-";
+U"LBRACE" : U"]";
+U"Y" : U"Y";
+U"U" : U"U";
+U"I" : U"I";
+U"O" : U"O";
+U"P" : U"P";
+U"RBRACE" : U"EQUALS";
+U"H" : U"H";
+U"J" : U"J";
+U"K" : U"K";
+U"L" : U"L";
+U"SEMICOLON" : U"SEMICOLON";
+U"QUOTE" : U"QUOTE";
+U"RALT" : U"PAGEUP";
+U"RCTRL" : U"LCK3";
+U"FUNCTION7" : U"SPACE" + U"LCTRL";
+U"N" : U"N";
+U"M" : U"M";
+U"COMMA" : U"COMMA";
+U"PERIOD" : U"PERIOD";
+U"SLASH" : U"SLASH";
+U"RSHIFT" : U"BACKSLASH";
+U"PAGEUP" : U"PAGEDOWN";
+U"PAGEDOWN" : U"FUN1";
+U"ENTER" : U"ENTER";
+U"SPACE" : U"SPACE";
+U"LEFT" : U"LEFT";
+U"DOWN" : U"DOWN";
+U"UP" : U"UP";
+U"RIGHT" : U"RIGHT";
+U"RGUI" : U"LSHIFT" + U"INSERT";
+
+
+
+
+
