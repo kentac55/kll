@@ -1,17 +1,15 @@
-Name = "MDErgo1";
+Name    = "MDErgo1";
 Variant = "standard";
-Layout = "Default";
-Base = "Blank";
-Version = "0.2";
-Author = "kc5m";
-KLL = "0.3c";
-Date = "2017-11-25";
-Generator = "KIICONF 0.2";
+Layout  = "Default";
+Base    = "Blank";
+Version = "0.4";
+Author  = "kc5m";
+KLL     = "0.3c";
+Date    = "2019-02-02";
 
-U"W" : U"UP";
-U"D" : U"RIGHT";
-U"S" : U"DOWN";
-U"A" : U"LEFT";
+U"W"         : U"UP";
+U"D"         : U"RIGHT";
+U"S"         : U"DOWN";
+U"A"         : U"LEFT";
 U"BACKSPACE" : U"SPACE";
-U"LGUI" : U"LALT";
-
+U"LGUI"      : U"LALT";
